@@ -1,5 +1,5 @@
 // File: Navbar.jsx
-// Author: Your Name, StudentID: #######, Date: May 19, 2025
+// Student: Kekelani Dayo, StudentID: 301451023, Date: May 19, 2025
 
 import React from 'react';
 import { Link } from 'react-router-dom';
